@@ -26,4 +26,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohsinshaikh03&show_icons=true&locale=en" alt="mohsinshaikh03" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohsinshaikh03&" alt="mohsinshaikh03" /></p>
-/main/image_processing20230105-32618-nsr4dy.png)https://github.com/Mohsinshaikh03/MYTA/blob/main/image_processing20230105-32618-nsr4dy.png
